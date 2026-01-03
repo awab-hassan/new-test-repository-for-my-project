@@ -1,0 +1,58 @@
+ifconfig
+ipconfig
+ping
+traceroute
+pwd
+ls
+mkdir
+cd
+ls
+touch (file, files, diff extension, multiple files)
+touch awabk{1..10}
+mousepad filename
+echo "adding data" > filename
+vim 
+nano ctrl + x + y
+cat
+cp file to folder
+mv file to folder
+rm -rf folder
+wget 
+zip folder
+unzip folder.zip folder
+mkdir 
+touch awabk{1..10}
+head filenmame
+tail filename
+cmp filename1 filename2
+grep
+touch script.sh
+chmod 
+sudo chmod
+ls -l
+sudo chown root script.sh
+sudo su -i root
+whoami
+sudo useradd awab
+sudo su awab
+sudo adduser awab2
+exit
+sudo passwd awab
+apt install 
+apt update and upgrade
+man command name
+free
+ps -aux
+systemctl start apache2
+systemctl status apache2
+systemctl stop apache2
+history
+ls -l
+1 execute 2 write 4 read = 7
+touch .hidden
+ls -a
+/ 
+sbin -> admin commands
+etc configuration files
+
+
